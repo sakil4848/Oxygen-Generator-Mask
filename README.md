@@ -1,1 +1,3 @@
-# Oxygen-Generator-Mask
+# Oxygen-Generator-Mask :
+ The mask will work with help of the following process:
+ In this mask solid sodium per oxide will react with carbon di oxide gas emitting from the body during exhalation and will produce oxygen without any help of environment as extra source of oxygen.Thus one receive oxygen by cyclic process .This mask will be work such way so that carbon di oxide gas pass through a tube consisting one way bulb to a container .But can not go backside.Given sodium per oxide will react with carbon di oxide and will produce sodium carbonate and oxygen in a container .Then oxygen will pass through a tube consisting another one way bulb into our nose ,A membrane will be used above the container so that sodium per oxide or sodium carbonate can not pass through the tube .This arrangement will place in both side of this mask.Thus the mask work successfully.
